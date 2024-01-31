@@ -78,6 +78,8 @@ function calculateCorrectAnswer() {
         throw `Unimplemented operator ${operator}. Aborting!`;
     }
 
+}
+
 /**
  * Gets the current score from the DOM and increments it by 1
  */
